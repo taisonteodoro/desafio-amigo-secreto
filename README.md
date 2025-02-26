@@ -1,0 +1,1 @@
+Este projeto é uma aplicação simples em JavaScript que permite adicionar nomes de amigos a uma lista e sortear um amigo secreto aleatoriamente. É uma ferramenta útil para organizar sorteios de amigo secreto de forma rápida e prática.
